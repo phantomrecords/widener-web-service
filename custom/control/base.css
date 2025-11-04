@@ -1,0 +1,11 @@
+BODY, TD, INPUT.text, INPUT.password, SELECT, TEXTAREA, INPUT.submit, .label {
+    FONT-SIZE: 12px;
+}
+
+#title {
+    FONT-SIZE: 16px;
+}
+
+TH, .note {
+    FONT-SIZE: 13px;
+}
